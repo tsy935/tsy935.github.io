@@ -48,7 +48,7 @@
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
-              <h2>Research</h2>
+              <h2>Research Projects</h2>
               <p>
                 I'm interested in building clinically applicable machine learning models for a variety of medical applications.
               </p>
@@ -101,8 +101,8 @@
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
-              <h2>Projects</h2>
-              <p>Current and past projects
+              <h2>Side Projects</h2>
+              <p>These include course projects, unpublished work and projects I did at National University of Singapore.
               </p>
             </td>
           </tr>
@@ -111,18 +111,9 @@
         <br>
         <br>
         <br>
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-          <tr>
-            <td style="padding:2.5%;width:100%;vertical-align:middle">
-              <h2>Research Projects</h2>
-            </td>
-          </tr>
-        </table>
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-
           {% for post in site.posts %}
           {% for cat in post.categories %}
-          {% if cat != 'research' and cat != 'Intel' %}
+          {% if cat != 'research' %}
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
               <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
@@ -179,7 +170,7 @@
             <td style="padding:0px">
               <br>
               <p style="text-align:center;font-size:small;">
-                Design and source code from <a style="font-size:small;" href="https://jonbarron.info">Jon Barron's website</a>
+                Design and source code from <a style="font-size:small;" href="https://jonbarron.info">Jon Barron's</a> and <a style="font-size:small;" href="https://leonidk.com/">Leonid Keselman's</a> websites
               </p>
             </td>
           </tr>
