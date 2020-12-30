@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Latent ASD Factors with Dissociable Functional Connectivity Patterns and Behavioral Symptoms"
+date: 2018-06-01 00:00:00 +08:00
+categories: conference
+authors: "<b><ins>Siyi Tang</ins></b>*, Nanbo Sun*, Dorothea L Floris, Xiuming Zhang, Adriana Di Martino, BT Thomas Yeo"
+venue: "Organization for Human Brain Mapping (OHBM) Annual Meeting"
+---

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Live demonstration: Real-time orientation estimation and grasping of household objects for upper limb prostheses with a dynamic vision sensor <span style='color:red'>(Honorable Mention Award)</span>"
+date: 2016-10-17 00:00:00 +08:00
+categories: conference
+authors: "<b><ins>Siyi Tang</ins></b>, Rohan Ghosh, Nitish V Thakor, Sunil L Kukreja"
+venue: "2016 IEEE Biomedical Circuits and Systems Conference (BioCAS)"
+---

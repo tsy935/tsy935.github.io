@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "From Adults to Neonates: Transfer and Meta-learning Approaches for Knowledge Generalization in Deep Networks for Electroencephalographic Analysis"
+date: 2020-12-07 00:00:00 +08:00
+categories: conference
+authors: "<b><ins>Siyi Tang</ins></b>, Daniel L Rubin, Chris Lee-Messer" 
+venue: "American Epilepsy Society Annual Meeting"
+---
