@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Reconciling dimensional and categorical models of autism heterogeneity: a brain connectomics and behavioral study"
+date: 2020-06-15 00:00:00 +08:00
+categories: research
+authors: "<b><ins>Siyi Tang</ins></b>*, Nanbo Sun*, Dorothea L Floris, Xiuming Zhang, Adriana Di Martino, BT Thomas Yeo"
+venue: "Biological psychiatry"
+paper: https://doi.org/10.1016/j.biopsych.2019.11.009
+code: https://github.com/ThomasYeoLab/CBIG/tree/master/stable_projects/disorder_subtypes/Tang2020_ASDFactors
+---

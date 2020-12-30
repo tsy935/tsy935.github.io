@@ -4,7 +4,7 @@ title:  "Comparison of Segmentation-Free and Segmentation-Dependent Computer-Aid
 date: 2020-12-29 00:00:00 +08:00
 image: /images/Lee2021_mamography
 categories: research
-authors: "Rebecca S. Lee, Jared A. Dunnmon, Ann He, <b>Siyi Tang</b>, Christopher Ré, Daniel L. Rubin"
+authors: "Rebecca S Lee, Jared A Dunnmon, Ann He, <b><ins>Siyi Tang</ins></b>, Christopher Ré, Daniel L Rubin"
 venue: "Journal of Biomedical Informatics"
 paper: https://doi.org/10.1016/j.jbi.2020.103656
 ---
