@@ -4,5 +4,5 @@ title:  "From Adults to Neonates: Transfer and Meta-learning Approaches for Know
 date: 2020-12-07 00:00:00 +08:00
 categories: conference
 authors: "<b><ins>Siyi Tang</ins></b>, Daniel L Rubin, Chris Lee-Messer" 
-venue: "American Epilepsy Society Annual Meeting"
+venue: "American Epilepsy Society (AES) Annual Meeting"
 ---
