@@ -1,0 +1,10 @@
+---
+layout: post
+date: 2020-01-10 00:00:00 +08:00
+categories: news
+---
+* 2020-12: I presented our work on transfer and meta-learning for EEG analysis at AES 2020.
+
+* 2020-06: Our paper on Autism Spectrum Disorder subtyping with a Bayesian model is now out on Biological Psychiatry.
+
+* 2020-01: I passed my PhD qualifying exam and advanced to PhD candidacy!
