@@ -54,8 +54,18 @@
               <h2 style="color:#DF7401;"> <b>News</b></h2>
             </td>
           </tr>
+          {% for post in site.posts %}
+          {% for cat in post.categories %}
+          {% if cat == 'news' %}
+          <tr>
+            <td style="padding:2.5%;width:75%;vertical-align:middle">
+              {{ post.excerpt }}
+            </td>
+          </tr>
+          {% endif %}
+          {% endfor %}
+          {% endfor %}
         </table>
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
         
 
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
