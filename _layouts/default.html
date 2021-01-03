@@ -53,11 +53,9 @@
             <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h2 style="color:#DF7401;"> <b>News</b></h2>
             </td>
-          </tr>
           {% for post in site.posts %}
           {% for cat in post.categories %}
           {% if cat == 'news' %}
-          <tr>
             <p style="text-align:center;font-size:small;">
               {{ post.excerpt }}
             </p>
