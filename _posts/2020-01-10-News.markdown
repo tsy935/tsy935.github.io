@@ -3,7 +3,7 @@ layout: post
 date: 2020-01-10 00:00:00 +08:00
 categories: news
 ---
-* 2021-02: I will be joining the medical AI team at Salesforce Research for summer internship this year!
+* 2021-02: I will be joining the medical AI team at Salesforce Research for a summer internship!
 
 * 2020-12: I presented our work on transfer and meta-learning for EEG analysis at AES 2020.
 
