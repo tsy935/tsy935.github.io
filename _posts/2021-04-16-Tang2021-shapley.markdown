@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Data Valuation for Medical Imaging Using Shapley Value: Application on A Large-scale Chest X-ray Dataset" 
-date: 2020-10-15 00:00:00 +08:00
+date: 2021-04-16 00:00:00 +08:00
 categories: research
 authors: "<b><ins>Siyi Tang</ins></b>, Amirata Ghorbani, Rikiya Yamashita, Sameer Rehman, Jared A Dunnmon, James Zou, Daniel L Rubin"
-venue: "arXiv"
-preprint: https://arxiv.org/abs/2010.08006
+venue: "Scientific Reports"
+paper: https://doi.org/10.1038/s41598-021-87762-2 
 ---
