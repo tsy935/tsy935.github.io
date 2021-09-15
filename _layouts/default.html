@@ -11,13 +11,14 @@
 
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link href="https://fonts.googleapis.com/css?family=Palatino+Linotype:400,700,400italic,700italic" rel="stylesheet" type="text/css">
-  
+  <link href="https://fonts.googleapis.com/css?family=Palatino+Linotype:400,700,400italic,700italic" rel="stylesheet"
+    type="text/css">
+
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-QBEQDQB23E"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
+    function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
 
     gtag('config', 'G-QBEQDQB23E');
@@ -28,21 +29,34 @@
 
 
 <body>
-  <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <table
+    style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
     <tr style="padding:0px">
       <td style="padding:0px">
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+        <table
+          style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr style="padding:0px">
             <td style="padding:2.5%;width:60%;vertical-align:middle">
               <h1>
                 Siyi Tang
               </h1>
+              <h1>
+                汤斯怡
+              </h1>
               <p style="text-align:center">
-                <i>siyitang at stanford dot edu</i>  
+                <i>siyitang at stanford dot edu</i>
               </p>
-              <p>I am a PhD student in Electrical Engineering at Stanford University advised by <a href="https://profiles.stanford.edu/daniel-rubin">Prof. Daniel Rubin</a>. My research interests lie in the intersection of <b>machine learning</b> and <b>medicine</b>. I develop machine learning methods for medical applications by leveraging the important characteristics in medical data. I work closely with clinical experts from the Stanford School of Medicine to better understand the clinical needs.
+              <p>I am a PhD student in Electrical Engineering at Stanford University advised by <a
+                  href="https://profiles.stanford.edu/daniel-rubin">Prof. Daniel Rubin</a>. My research interests lie in
+                the intersection of <b>machine learning</b> and <b>medicine</b>. I develop machine learning methods for
+                medical applications by leveraging the important characteristics in medical data. I work closely with
+                clinical experts from the Stanford School of Medicine to better understand the clinical needs.
               </p>
-              <p>I received my Bachelor's Degree in Electrical Engineering (Highest Distinction Honors) from National University of Singapore, where I was fortunate to be advised by <a href="https://scholar.google.com/citations?hl=en&user=DEgZaUoAAAAJ&view_op=list_works&sortby=pubdate">Prof. Nitish Thakor</a> and <a href="https://scholar.google.com/citations?user=BOUzsU8AAAAJ&hl=en&oi=ao">Prof. Thomas Yeo</a>.
+              <p>I received my Bachelor's Degree in Electrical Engineering (Highest Distinction Honors) from National
+                University of Singapore, where I was fortunate to be advised by <a
+                  href="https://scholar.google.com/citations?hl=en&user=DEgZaUoAAAAJ&view_op=list_works&sortby=pubdate">Prof.
+                  Nitish Thakor</a> and <a
+                  href="https://scholar.google.com/citations?user=BOUzsU8AAAAJ&hl=en&oi=ao">Prof. Thomas Yeo</a>.
               </p>
               <p style="text-align:center">
                 <a href="../pdfs/CV_SiyiTang.pdf">CV</a> &nbsp;/&nbsp;
@@ -56,9 +70,10 @@
             </td>
           </tr>
         </table>
-        <br>    
-        
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;cellspacing=0">
+        <br>
+
+        <table
+          style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;cellspacing=0">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h2 style="color:#DF7401;"> <b>News</b></h2>
@@ -69,24 +84,26 @@
           {% if cat == 'news' %}
           <tr>
             <td style="width:75%;vertical-align:middle">
-            <p></p>
-              {{ post.excerpt }}  
+              <p></p>
+              {{ post.excerpt }}
             </td>
           </tr>
           {% endif %}
           {% endfor %}
           {% endfor %}
         </table>
-        
 
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+
+        <table
+          style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h2 style="color:#DF7401;"> <b>Publications</b></h2>
             </td>
           </tr>
         </table>
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+        <table
+          style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 
           {% for post in site.posts %}
           {% for cat in post.categories %}
@@ -127,15 +144,17 @@
           {% endfor %}
         </table>
         <br>
-        
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+
+        <table
+          style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h2 style="color:#DF7401;"> <b>Conference Presentations</b></h2>
             </td>
           </tr>
         </table>
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+        <table
+          style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 
           {% for post in site.posts %}
           {% for cat in post.categories %}
@@ -177,24 +196,43 @@
         </table>
         <br>
 
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+        <table
+          style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr>
+            <td style="padding:2.5%;width:100%;vertical-align:middle">
+              <h2 style="color:#DF7401;"> <b>Teaching</b></h2>
+              <ul>
+                <li> Fall 2021: Teaching assistant of <a href="https://cs330.stanford.edu/"> CS330 Deep Multi-task and
+                    Meta Learning</a></li>
+              </ul>
+            </td>
+          </tr>
+        </table>
+
+        <table
+          style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h2 style="color:#DF7401;"> <b>About Me</b></h2>
-              <p>My Chinese name is 汤斯怡. I grew up in a beutiful city, Zhang Zhou, in Fujian Province of China. I lived in Singapore for 7+ years before coming to Stanford. 
+              <p>I grew up in a beutiful city, Zhang Zhou, in Fujian Province of China. I lived
+                in Singapore for 7+ years before coming to Stanford.
               </p>
-              <p>Besides research, I also enjoy photography, cooking and baking, violin and traveling around the world. You can find some of my photography works <a href="https://500px.com/p/tangsiyi1?view=galleries">here</a>.
+              <p>Besides research, I also enjoy photography, cooking and baking, violin and traveling around the world.
+                You can find some of my photography works <a
+                  href="https://500px.com/p/tangsiyi1?view=galleries">here</a>.
               </p>
             </td>
           </tr>
         </table>
 
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+        <table
+          style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:0px">
               <br>
               <p style="text-align:center;font-size:small;">
-                Design and source code from <a style="font-size:small;" href="https://jonbarron.info">Jon Barron's</a> and <a style="font-size:small;" href="https://leonidk.com/">Leonid Keselman's</a> websites
+                Design and source code from <a style="font-size:small;" href="https://jonbarron.info">Jon Barron's</a>
+                and <a style="font-size:small;" href="https://leonidk.com/">Leonid Keselman's</a> websites
               </p>
             </td>
           </tr>
@@ -205,4 +243,3 @@
 </body>
 
 </html>
-
