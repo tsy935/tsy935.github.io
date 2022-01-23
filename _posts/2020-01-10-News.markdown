@@ -3,6 +3,8 @@ layout: post
 date: 2020-01-10 00:00:00 +08:00
 categories: news
 ---
+* 2021-12: I obtained my MS Degree!
+
 * 2021-04: Our [paper](https://doi.org/10.1038/s41598-021-87762-2) on data valuation for chest X-rays is now out on Scientific Reports.
 
 * 2021-02: I will be joining the medical AI team at Salesforce Research for a summer internship!
