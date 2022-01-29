@@ -3,6 +3,8 @@ layout: post
 date: 2020-01-10 00:00:00 +08:00
 categories: news
 ---
+* 2022-01: Our [paper](https://openreview.net/pdf?id=k9bx1EfHI_-) on self-supervised graph neural network for EEG seizure analysis has been accepted to ICLR 2022!
+
 * 2021-12: I obtained my MS Degree!
 
 * 2021-04: Our [paper](https://doi.org/10.1038/s41598-021-87762-2) on data valuation for chest X-rays is now out on Scientific Reports.
