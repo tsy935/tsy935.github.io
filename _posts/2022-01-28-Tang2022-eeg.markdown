@@ -5,6 +5,6 @@ date: 2022-01-28 00:00:00 +08:00
 categories: research
 authors: "<b><ins>Siyi Tang</ins></b>, Jared Dunnmon, Khaled Saab, Xuan Zhang, Qianying Huang, Florian Dubost, Daniel Rubin, Christopher Lee-Messer"
 venue: "International Conference on Learning Representations"
-preprint: https://openreview.net/pdf?id=k9bx1EfHI_- 
+paper: https://openreview.net/pdf?id=k9bx1EfHI_- 
 code: https://github.com/tsy935/eeg-gnn-ssl
 ---
