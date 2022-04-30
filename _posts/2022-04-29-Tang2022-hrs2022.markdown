@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Machine Learning-Enabled Multimodal Fusion of Intra-Atrial and Body Surface Signals in Prediction of Atrial Fibrillation Ablation Outcomes <span style='color:red'>(Highest Scoring Abstract in Digital Health)</span>"
+date: 2022-04-29 00:00:00 +08:00
+categories: conference
+authors: "<b><ins>Siyi Tang</ins></b>, Orod Razeghi, Ridhima Kapoor, Mahmood Alhusseini, Muhammad Fazal, Albert Rogers, Miguel Rodrigo Bort, Paul Clopton, Paul Wang, Daniel Rubin, Sanjiv Narayan, Tina Baykaner"
+venue: "Heart Rhythm"
+---

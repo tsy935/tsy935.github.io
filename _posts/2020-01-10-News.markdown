@@ -3,6 +3,8 @@ layout: post
 date: 2020-01-10 00:00:00 +08:00
 categories: news
 ---
+* 2022-04: I presented our work on deep-learning-based multimodal fusion for atrial fibrillation outcome prediction at Heart Rhythm 2022. The abstract has received the Highest Scoring Abstract in Digital Health Award!
+
 * 2022-01: Our [paper](https://openreview.net/pdf?id=k9bx1EfHI_-) on self-supervised graph neural network for EEG seizure analysis has been accepted to ICLR 2022!
 
 * 2021-12: I obtained my MS Degree!
