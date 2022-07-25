@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Machine Learning–Enabled Multimodal Fusion of Intra-Atrial and Body Surface Signals in Prediction of Atrial Fibrillation Ablation Outcomes"
+date: 2022-07-22 00:00:00 +08:00
+categories: research
+authors: "<b><ins>Siyi Tang</ins></b>, Orod Razeghi, Ridhima Kapoor, Mahmood I. Alhusseini, Muhammad Fazal, Albert J. Rogers, Miguel Rodrigo Bort, Paul Clopton, Paul Wang, Daniel Rubin, Sanjiv M. Narayan and Tina Baykaner"
+venue: "Circulation: Arrythmia and Electrophysiology"
+paper: https://doi.org/10.1161/CIRCEP.122.010850
+---
