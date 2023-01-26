@@ -5,6 +5,6 @@ date: 2023-01-25 00:00:00 +08:00
 categories: research
 authors: "<b><ins>Siyi Tang</ins></b>*, Amara Tariq*, Jared Dunnmon, Umesh Sharma, Praneetha Elugunti, Daniel Rubin, Bhavik N. Patel, Imon Banerjee"
 venue: "IEEE Journal of Biomedical and Health Informatics"
-paper: https://ieeexplore.ieee.org/document/10016722
+paper: https://doi.org/10.1109/JBHI.2023.3236888 
 code: https://github.com/tsy935/readmit-stgnn
 ---
