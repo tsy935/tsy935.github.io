@@ -3,7 +3,7 @@ layout: post
 date: 2020-01-10 00:00:00 +08:00
 categories: news
 ---
-* 2023-02: I defended by PhD dissertation!
+* 2023-02: I defended my PhD dissertation!
 
 * 2023-01: Our [paper](https://doi.org/10.1109/JBHI.2023.3236888) on multimodal graph neural networks for hospital readmission prediction is now published online on IEEE Journal of Biomedical and Health Informatics!
 
