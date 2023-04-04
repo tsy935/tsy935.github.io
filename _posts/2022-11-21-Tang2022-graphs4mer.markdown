@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Spatiotemporal Modeling of Multivariate Signals With Graph Neural Networks and Structured State Space Models"
+title: "Modeling Multivariate Biosignals With Graph Neural Networks and Structured State Space Models"
 date: 2022-11-21 00:00:00 +08:00
 categories: research
-authors: "<b><ins>Siyi Tang</ins></b>, Jared Dunnmon, Liangqiong Qu, Khaled K. Saab, Christopher Lee-Messer, Daniel L. Rubin"
+authors: "<b><ins>Siyi Tang</ins></b>, Jared Dunnmon, Liangqiong Qu, Khaled K. Saab, Tina Baykaner, Christopher Lee-Messer, Daniel L. Rubin"
 venue: "arXiv"
 preprint: https://arxiv.org/abs/2211.11176
 code: https://github.com/tsy935/graphs4mer
