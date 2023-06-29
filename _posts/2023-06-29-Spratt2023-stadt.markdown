@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Artificial Intelligence Predictive Model for Hormone Therapy Use in Prostate Cancer"
+date: 2023-06-29 00:00:00 +08:00
+categories: research
+authors: "Daniel E. Spratt*, <b><ins>Siyi Tang</ins></b>*, Yilun Sun*, et al."
+venue: "NEJM Evidence"
+paper: https://evidence.nejm.org/doi/full/10.1056/EVIDoa2300023
+---

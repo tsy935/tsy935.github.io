@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Modeling Multivariate Biosignals With Graph Neural Networks and Structured State Space Models <span style='color:red'>(Best Paper Award)</span>"
+date: 2023-04-01 00:00:00 +08:00
+categories: research
+authors: "<b><ins>Siyi Tang</ins></b>, Jared Dunnmon, Liangqiong Qu, Khaled K. Saab, Tina Baykaner, Christopher Lee-Messer, Daniel L. Rubin"
+venue: "Conference on Health, Learning, and Inference"
+paper: https://proceedings.mlr.press/v209/tang23a/tang23a.pdf 
+code: https://github.com/tsy935/graphs4mer
+---
