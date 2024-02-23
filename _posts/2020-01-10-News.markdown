@@ -3,6 +3,8 @@ layout: post
 date: 2020-01-10 00:00:00 +08:00
 categories: news
 ---
+* 2024-02: Our [paper](https://doi.org/10.1038/s41746-024-01008-9) on trustworthy seizure onset detection is now published on npj Digital Medicine! 
+
 * 2023-06: Our [paper](https://evidence.nejm.org/doi/full/10.1056/EVIDoa2300023) on a predictive AI biomarker of androgen deprivation therapy benefit in prostate cancer is now published on NEJM Evidence!
 
 * 2023-06: Our [paper](https://proceedings.mlr.press/v209/tang23a/tang23a.pdf) on modeling multivariate biosignals with GNNs and S4 won the Best Paper Award at CHIL 2023!
