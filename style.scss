@@ -1,14 +1,6 @@
 ---
 ---
 
-//
-// IMPORTS
-//
-
-//@import "reset";
-//@import "variables";
-// Syntax highlighting @import is at the bottom of this file
-
 /**************/
 /* BASE RULES */
 /**************/
@@ -98,8 +90,3 @@ h1 {
 span.highlight {
   background-color: #ffffd0;
 }
-
-// Settled on moving the import of syntax highlighting to the bottom of the CSS
-// ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
-//@import "highlights";
-//@import "svg-icons";
